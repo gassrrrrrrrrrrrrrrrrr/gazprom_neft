@@ -9,7 +9,7 @@
 мы представляем вам:
 </header>
 <body>
-<img src="http://pics.livejournal.com/inesacipa/pic/001atexe">
+<img src="https://ic.pics.livejournal.com/inesacipa/16011677/256647/256647_original.jpg">
 <p>кукурузный багет</p>
 <img src="">
 <p>черный хлеб</p>
