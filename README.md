@@ -16,9 +16,9 @@
 <img src="https://finecooking.ru/images/recipe/vishnevyi-pirog/photo/960w.jpg">
 <p>вишневый пирог</p>
 <h3>Также у нас вы сможете организовать праздники:день рождения,масленица,новый год,рождество,отметить повышение на работе.Проводим мастерклассы.</h3>
-<img src="">
+<img src="https://w7.pngwing.com/pngs/303/697/png-transparent-toy-balloon-birthday-party-balloon-balloon-party-red-balloon.png">
 <h4>Ну и это не все!Также вы сможете попробовать наши лучшие произведения искусства.</h4>
-<img src="">
+<img src="https://baking-academy.ru/upload/iblock/1a0/1a0a6fb9e48715d27949b4e3b96898c8.png">
 ржаной хлеб
 <img src="=">
 ватрушка
