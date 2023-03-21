@@ -11,7 +11,7 @@
 <body>
 <img src="https://ic.pics.livejournal.com/inesacipa/16011677/256647/256647_original.jpg">
 <p>кукурузный багет</p>
-<img src="">
+<img src="https://photos.smugmug.com/By-Date/2020-5-%D0%9C%D0%B0%D0%B9/i-Ltpx3jK/0/de1aa79f/M/IMG_4265-M.jpg">
 <p>черный хлеб</p>
 <img src="https://finecooking.ru/images/recipe/vishnevyi-pirog/photo/960w.jpg">
 <p>вишневый пирог</p>
