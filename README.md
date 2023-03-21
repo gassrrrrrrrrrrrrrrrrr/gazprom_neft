@@ -20,7 +20,7 @@
 <h4>Ну и это не все!Также вы сможете попробовать наши лучшие произведения искусства.</h4>
 <img src="https://baking-academy.ru/upload/iblock/1a0/1a0a6fb9e48715d27949b4e3b96898c8.png">
 ржаной хлеб
-<img src="=">
+<img src="https://sever-metropol.ru/upload/shop_6/1/1/7/item_1179/item_1179.jpg">
 ватрушка
 <h5>обращайтесь к нам, чтобы весело провести время!</h5>
 </body>
